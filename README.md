@@ -23,7 +23,7 @@ Meus projetos mais legais são
 </details>
   
   
-  |  <a href="https://darlley.github.io/"><img src="https://scontent.fcgr6-1.fna.fbcdn.net/v/t31.18172-8/12605501_728306277306020_4391959798534295609_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=174925&_nc_ohc=gl_C__hyT9QAX8QHlay&_nc_ht=scontent.fcgr6-1.fna&oh=5a56c8255aa4f3d4ec3bd7d4ee2111b3&oe=60D9458E" width="150px" height="150px" /></a> |
+  |  <a href="https://darlley.github.io/"><img src="https://user-images.githubusercontent.com/37590954/120243191-f33ed000-c234-11eb-98cd-17bc58f0f380.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Darlley Brito](https://darlley.github.io/)**                                                                                |
 |<a href="https://twitter.com/darlleybrito"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/darlley"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/darlley.brasil"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://br.linkedin.com/in/darlley-brito-165884161/pt-br/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
@@ -46,3 +46,4 @@ Meus projetos mais legais são
   [![Darlley Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=darlleybrito&type=vertical)](https://darlleybrito.medium.com/)
 
 </details>
+
