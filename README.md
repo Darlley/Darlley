@@ -1,16 +1,48 @@
-### Hi there 👋
+## Hello World!!! 
 
-<!--
-**Darlley/Darlley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá pessoal! Meu nome é **Darlley Brasil** e meu perfil é [@Darlley](https://github.com/darlley).
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/Darlley">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlley&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlley&layout=compact&langs_count=16&theme=react"/>
+<div>
+ 
+## Repositórios
+  
+Meus projetos mais legais são
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Repositório de resolução de [exercícios de livros](https://github.com/Darlley/ExerciciosLivros).
+* Repositórios de resolução de exercícios de cursos e livros: [HTML e CSS](https://github.com/Darlley/Frontend), [JavaScript](https://github.com/Darlley/JavaScript), [Java](https://github.com/Darlley/Java) e [Python](https://github.com/Darlley/Python).
+* Meu site [portofólio](https://darlley.github.io/) hospedado aqui no GitHub: 
+
+<details>
+  
+[![Site](https://user-images.githubusercontent.com/37590954/120138199-06558f80-c1a4-11eb-9744-9983d4d30f0b.jpg)](https://darlley.github.io/)
+  
+</details>
+  
+  
+  |  <a href="https://darlley.github.io/"><img src="https://scontent.fcgr6-1.fna.fbcdn.net/v/t31.18172-8/12605501_728306277306020_4391959798534295609_o.jpg?_nc_cat=105&ccb=1-3&_nc_sid=174925&_nc_ohc=gl_C__hyT9QAX8QHlay&_nc_ht=scontent.fcgr6-1.fna&oh=5a56c8255aa4f3d4ec3bd7d4ee2111b3&oe=60D9458E" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[Darlley Brito](https://darlley.github.io/)**                                                                                |
+|<a href="https://twitter.com/darlleybrito"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/darlley"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/darlley.brasil"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://br.linkedin.com/in/darlley-brito-165884161/pt-br/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+
+### - Languages and Tools...  💻
+  
+<p align="">
+ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+
+</p>
+
+##
+  
+### Meu blog no Medium
+  
+<details>
+  
+  ### Minhas públicações
+  
+  [![Darlley Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=darlleybrito&type=vertical)](https://darlleybrito.medium.com/)
+
+</details>
