@@ -26,7 +26,7 @@ Meus projetos mais legais são
   |  <a href="https://darlley.github.io/"><img src="https://user-images.githubusercontent.com/37590954/120243191-f33ed000-c234-11eb-98cd-17bc58f0f380.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Darlley Brito](https://darlley.github.io/)**                                                                                |
-|<a href="https://twitter.com/darlleybrito"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/darlley"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/darlley.brasil"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://br.linkedin.com/in/darlley-brito-165884161/pt-br/"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> |
+|<a href="https://twitter.com/darlley_brito"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/darlley"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/darlley.brasil"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://br.linkedin.com/in/darlley-brito-165884161/pt-br/"><img src="https://seeklogo.com/images/I/instagram-flat-icon-circle-logo-B22B78214D-seeklogo.com.png" width="32px" height="32px"></a> |
 
 ### - Languages and Tools...  💻
   
