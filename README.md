@@ -1,6 +1,6 @@
 ## Hello World!!! 
 
-Olá pessoal! Meu nome é **Darlley Brasil** e meu perfil é [@Darlley](https://github.com/darlley).
+Olá pessoal! Meu nome completo é **Darlley Brasil de Brito Furtado**.
 
 <div>
   <a href="https://github.com/Darlley">
