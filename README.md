@@ -1,6 +1,11 @@
-## Hello World!!! 
+## Olá pessoal!!! 
 
-Olá pessoal! Meu nome completo é **Darlley Brasil de Brito Furtado**.
+Meu nome completo é **Darlley Brasil de Brito Furtado**. Para ser mais pessoal:
+- 🔴⚪⚫ Meu time de coração é o São Paulo (acompanho quase todos os jogos)
+- 📺 Meu filme favorito é o Senhor dos Anéis (também gosto de Harry  Potter, tenho os livros das duas sagas)
+- 📖 Gosto de filosofia (gosto dos diálogos platônicos e ja resumi alguns livros)
+- 💻 Meus intereses são Front-end > Back-end > DevOps
+- 🐙 Curto os animes mais padrãosinhos, agora estou acompanhando Boruto.
 
 <div>
   <a href="https://github.com/Darlley">
@@ -8,31 +13,19 @@ Olá pessoal! Meu nome completo é **Darlley Brasil de Brito Furtado**.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlley&layout=compact&langs_count=16&theme=react"/>
 <div>
  
-## Repositórios
+## Projetos
   
 Meus projetos mais legais são
 
 * Repositório de resolução de [exercícios de livros](https://github.com/Darlley/ExerciciosLivros).
 * Repositórios de resolução de exercícios de cursos e livros: [HTML e CSS](https://github.com/Darlley/Frontend), [JavaScript](https://github.com/Darlley/JavaScript), [Java](https://github.com/Darlley/Java) e [Python](https://github.com/Darlley/Python).
 * Meu site [portofólio](https://darlley.github.io/) hospedado aqui no GitHub: 
-
-<details>
   
-[![Site](https://user-images.githubusercontent.com/37590954/120138199-06558f80-c1a4-11eb-9744-9983d4d30f0b.jpg)](https://darlley.github.io/)
-  
-</details>
-  
-  
-  |  <a href="https://darlley.github.io/"><img src="https://user-images.githubusercontent.com/37590954/120243191-f33ed000-c234-11eb-98cd-17bc58f0f380.png" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Darlley Brito](https://darlley.github.io/)**                                                                                |
-|<a href="https://twitter.com/darlley_brito"><img src="https://i.ibb.co/kmgQVyW/twitter.png" width="32px" height="32px"></a> <a href="https://github.com/darlley"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/darlley.brasil"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://br.linkedin.com/in/darlley-brito-165884161/pt-br/"><img src="https://seeklogo.com/images/I/instagram-flat-icon-circle-logo-B22B78214D-seeklogo.com.png" width="32px" height="32px"></a> |
-
-### - Languages and Tools...  💻
-  
-<p align="">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
+<p align="center">
+	<a href="https://www.linkedin.com/in/darlley-brito-165884161/"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f0f0c230de17855182ef3bdcdbb243b6c2e7c11d/imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://darlley.github.io/conhecimentos.html"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f0f0c230de17855182ef3bdcdbb243b6c2e7c11d/imgs/cv.svg" alt="Curriculum Vitae"></a>
+  <a href="https://twitter.com/darlley_brito"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f0f0c230de17855182ef3bdcdbb243b6c2e7c11d/imgs/twitter.svg" alt="Twitter"></a>
+</p>
 </p>
 
 
