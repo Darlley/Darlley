@@ -26,6 +26,6 @@ Meus projetos mais legais são
 	<a href="https://darlley.github.io/conhecimentos.html"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f0f0c230de17855182ef3bdcdbb243b6c2e7c11d/imgs/cv.svg" alt="Curriculum Vitae"></a>
   <a href="https://twitter.com/darlley_brito"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f0f0c230de17855182ef3bdcdbb243b6c2e7c11d/imgs/twitter.svg" alt="Twitter"></a>
 </p>
+<p align="center">
+	darlleybrito@gmail.com
 </p>
-
-
