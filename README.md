@@ -1,5 +1,7 @@
 ## Olá pessoal!!! 
 
+- [Frontendbr/Me-contrata](https://github.com/frontendbr/me-contrata/issues/491#issue-977358968)
+
 Meu nome completo é **Darlley Brasil de Brito Furtado**. Para ser mais pessoal:
 - 🔴⚪⚫ Meu time de coração é o São Paulo (acompanho quase todos os jogos)
 - 📺 Meu filme favorito é o Senhor dos Anéis (também gosto de Harry  Potter, tenho os livros das duas sagas)
