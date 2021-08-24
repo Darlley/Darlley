@@ -1,6 +1,15 @@
-## Olá pessoal!!! 
+# Que bom que você esta aqui!
+![undraw_programming_2svr](https://user-images.githubusercontent.com/37590954/130641180-2de0f373-e757-40f5-af87-c91661d8f5c5.png)
+ 
 
 - [Frontendbr/Me-contrata](https://github.com/frontendbr/me-contrata/issues/491#issue-977358968)
+
+<div>
+  <a href="https://github.com/Darlley">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlley&show_icons=true&theme=react&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlley&layout=compact&langs_count=16&theme=react">
+  <a/>
+<div>
 
 Meu nome completo é **Darlley Brasil de Brito Furtado**. Para ser mais pessoal:
 - 🔴⚪⚫ Meu time de coração é o São Paulo (acompanho quase todos os jogos)
@@ -8,21 +17,15 @@ Meu nome completo é **Darlley Brasil de Brito Furtado**. Para ser mais pessoal:
 - 📖 Gosto de filosofia (gosto dos diálogos platônicos e ja resumi alguns livros)
 - 💻 Meus intereses são Front-end > Back-end > DevOps
 - 🐙 Curto os animes mais padrãosinhos, agora estou acompanhando Boruto.
-
-<div>
-  <a href="https://github.com/Darlley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlley&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlley&layout=compact&langs_count=16&theme=react"/>
-<div>
  
-## Projetos
-  
-Meus projetos mais legais são
+## Projetos mais legais
 
-* Repositório de resolução de [exercícios de livros](https://github.com/Darlley/ExerciciosLivros).
-* Repositórios de resolução de exercícios de cursos e livros: [HTML e CSS](https://github.com/Darlley/Frontend), [JavaScript](https://github.com/Darlley/JavaScript), [Java](https://github.com/Darlley/Java) e [Python](https://github.com/Darlley/Python).
-* Meu site [portofólio](https://darlley.github.io/) hospedado aqui no GitHub: 
-  
+1. Meu portfólio - [README](https://github.com/Darlley/darlley.github.io)
+1. Resolução de exercícios de livros - [README](https://github.com/Darlley/ExerciciosLivros/blob/master/README.md)
+1. Projetos de HTML e CSS - [README](https://github.com/Darlley/Frontend/blob/master/README.md)
+1. Projetos de JavaScript - [README](https://github.com/Darlley/JavaScript/blob/master/README.md)
+1. Projetos de ReactJS - [README](https://github.com/Darlley/ReactJS/blob/main/README.md)
+
 <p align="center">
 	<a href="https://www.linkedin.com/in/darlley-brito-165884161/"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f0f0c230de17855182ef3bdcdbb243b6c2e7c11d/imgs/linkedin.svg" alt="LinkedIn"></a>
 	<a href="https://darlley.github.io/conhecimentos.html"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f0f0c230de17855182ef3bdcdbb243b6c2e7c11d/imgs/cv.svg" alt="Curriculum Vitae"></a>
