@@ -5,16 +5,8 @@
   </a>
 <div>
 
-<div class="me-contrata" style="padding: 5px;">
-  <a href="https://github.com/frontendbr/me-contrata/issues/491#issue-977358968">Frontendbr/Me-contrata</a>
-</div>
-
-<style>
-  .me-contrata{
+<div style=".me-contrata{
     animation: mover 5s ease-in-out infinite alternate;
-  }
-  .me-contrata a{
-    color: tomato;
   }
   @keyframes mover{
     0%{
@@ -23,8 +15,9 @@
     100%{
       transform: translateX(20px);
     }
-  }
-</style>
+  }" class="me-contrata" style="padding: 5px;">
+  <a style="color: tomato;" href="https://github.com/frontendbr/me-contrata/issues/491#issue-977358968">Frontendbr/Me-contrata</a>
+</div>
 
 ---
 
