@@ -5,10 +5,11 @@
   </a>
 <div>
 
+---
 <div style="padding: 5px;">
   <a href="https://github.com/frontendbr/me-contrata/issues/491#issue-977358968">Frontendbr/Me-contrata</a>
 </div>
-
+	
 ---
 
 Meu nome completo é **Darlley Brasil de Brito Furtado**. Para ser mais pessoal:
