@@ -1,5 +1,12 @@
-![undraw_programming_2svr](https://user-images.githubusercontent.com/37590954/130641180-2de0f373-e757-40f5-af87-c91661d8f5c5.png)
-
+<div>
+  <a href="https://github.com/Darlley">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlley&show_icons=true&theme=react&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlley&layout=compact&langs_count=16&theme=react">
+  </a>
+<div>
+	
+---
+	
 [Frontendbr/Me-contrata](https://github.com/frontendbr/me-contrata/issues/491#issue-977358968)
 
 Meu nome completo é **Darlley Brasil de Brito Furtado**. Para ser mais pessoal:
@@ -8,13 +15,6 @@ Meu nome completo é **Darlley Brasil de Brito Furtado**. Para ser mais pessoal:
 - 📖 Gosto de filosofia (gosto dos diálogos platônicos e ja resumi alguns livros)
 - 💻 Meus intereses são Front-end > Back-end > DevOps
 - 🐙 Curto os animes mais padrãosinhos, agora estou acompanhando Boruto.
-
-<div>
-  <a href="https://github.com/Darlley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlley&show_icons=true&theme=react&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlley&layout=compact&langs_count=16&theme=react">
-  <a/>
-<div>
  
 ## Projetos mais legais
 
