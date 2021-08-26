@@ -5,8 +5,8 @@
   </a>
 <div>
 
-<div style="animation: mover 5s ease-in-out infinite alternate; @keyframes mover{0%{transform: translateX(0px);}100%{transform: translateX(20px);}}; padding: 5px;">
-  <a style="color: tomato;" href="https://github.com/frontendbr/me-contrata/issues/491#issue-977358968">Frontendbr/Me-contrata</a>
+<div style="padding: 5px;">
+  <a href="https://github.com/frontendbr/me-contrata/issues/491#issue-977358968">Frontendbr/Me-contrata</a>
 </div>
 
 ---
