@@ -1,13 +1,32 @@
-<div>
+<div style="width: 100%;">
   <a href="https://github.com/Darlley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darlley&show_icons=true&theme=react&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlley&layout=compact&langs_count=16&theme=react">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Darlley&show_icons=true&theme=react&include_all_commits=true&count_private=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlley&layout=compact&langs_count=16&theme=react">
   </a>
 <div>
-	
+
+<div class="me-contrata" style="padding: 5px;">
+  <a href="https://github.com/frontendbr/me-contrata/issues/491#issue-977358968">Frontendbr/Me-contrata</a>
+</div>
+
+<style>
+  .me-contrata{
+    animation: mover 5s ease-in-out infinite alternate;
+  }
+  .me-contrata a{
+    color: tomato;
+  }
+  @keyframes mover{
+    0%{
+      transform: translateX(0px);
+    }
+    100%{
+      transform: translateX(20px);
+    }
+  }
+</style>
+
 ---
-	
-[Frontendbr/Me-contrata](https://github.com/frontendbr/me-contrata/issues/491#issue-977358968)
 
 Meu nome completo é **Darlley Brasil de Brito Furtado**. Para ser mais pessoal:
 - 🔴⚪⚫ Meu time de coração é o São Paulo (acompanho quase todos os jogos)
