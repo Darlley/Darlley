@@ -1,5 +1,8 @@
 <a href="https://github.com/frontendbr/me-contrata/issues/491#issue-977358968">Frontendbr/Me-contrata</a>
- 
+
+- São paulo, Senhor dos Anéis, Harry Potter e filosofia.
+- 💻 Front-end developer com Bootstrap (NPM, Sass, Gulp), PHP/WordPress, JavaScript e ReactJS
+- 🐙 Curto os animes mais padrãosinhos, agora estou acompanhando Boruto.
 
 <div>
   <a href="https://github.com/Darlley">
@@ -7,10 +10,6 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlley&layout=compact&langs_count=16&theme=react">
   </a>
 <div>
-
-- São paulo, Senhor dos Anéis, Harry Potter e filosofia.
-- 💻 Front-end developer com Bootstrap (NPM, Sass, Gulp), PHP/WordPress, JavaScript e ReactJS
-- 🐙 Curto os animes mais padrãosinhos, agora estou acompanhando Boruto.
 
 <div align="center">
   <div>
@@ -75,6 +74,20 @@
 </div>
 
 ---
+
+## 🎉 PROJETOS 
+
+Meus melhores projetos
+
+1. ✅ Protótipo de dashboard para desafio de vaga: [DietSystem](https://darlley.github.io/Frontend/DietSystem/) (HTML + CSS)
+1. ✅ Protótipo de landing page para desafio de vaga: [Impulso Previne](https://darlley.github.io/Frontend/impulso-previne/) (HTML + CSS)
+1. ✅ Portfólio pessoal: [Darlley Brito](https://darlley.github.io/) (Bootstrap+Sass, Gulp e Github Pages)
+1. ✅ Protótipo de landing page para desafio de vaga: [Sorteio.com](https://sorteio-woad.vercel.app/) (Next.js, Sass+Bootstrap e Vercel)
+1. ✅ Protótipo de landing page para desafio de vaga: [PrivateCode](https://privatecode.vercel.app/) (Next.js, Sass + Bootstrap e Vercel)
+1. ✅ Projeto da NLW6 (curso/evento): [Letmeask](https://letmeask-c49ed.web.app/) (ReactJS+Vitejs, Sass e Firebase)
+
+
+## 📲 CONTATOS
 
 <div align="center" stye="margin: 1000px">
   <p>
