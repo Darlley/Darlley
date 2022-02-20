@@ -1,8 +1,12 @@
-<a href="https://github.com/frontendbr/me-contrata/issues/491#issue-977358968">Frontendbr/Me-contrata</a>
+# Hello Devs
 
-- São paulo, Senhor dos Anéis, Harry Potter e filosofia.
-- 💻 Front-end developer com Bootstrap (NPM, Sass, Gulp), PHP/WordPress, JavaScript e ReactJS
-- 🐙 Curto os animes mais padrãosinhos, agora estou acompanhando Boruto.
+- 💻 Sou Desenvolvedor Web Fullstack Júnior na TALL Stack: Tailwind, Alpinejs, Laravel e Livewire
+- 💻 Também tenho conhecientos em desenvolvimento com Bootstrap, PHP/WordPress, ReactJS, Next.js e as ferramentas front-end (NPM, SCSS, Gulp, etc...).
+- 🐙 Curto os animes mais padrãosinhos, agora estou acompanhando Boruto e Demon Slayer.  
+- Meus gostos principais:
+- - Time > São paulo FC;
+- - Filmes > Senhor dos Anéis, Harry Potter;
+- - Leitura > Literatura Clássica e ciências sociais (Filosofia e História);
 
 <div>
   <a href="https://github.com/Darlley">
