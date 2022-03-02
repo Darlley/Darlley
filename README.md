@@ -1,7 +1,7 @@
 # Hello Devs
 
 - 💻 Sou Desenvolvedor Web Fullstack Júnior na TALL Stack: Tailwind, Alpinejs, Laravel e Livewire
-- 💻 Também tenho conhecientos em desenvolvimento com Bootstrap, PHP/WordPress, ReactJS, Next.js e as ferramentas front-end (NPM, SCSS, Gulp, etc...).
+- 💻 Também tenho conhecimentos em desenvolvimento com Bootstrap, PHP/WordPress, ReactJS, Next.js e as ferramentas front-end (NPM, SCSS, Gulp, etc...).
 - 🐙 Curto os animes mais padrãosinhos, agora estou acompanhando Boruto e Demon Slayer.  
 - Meus gostos principais:
 - - Time > São paulo FC;
