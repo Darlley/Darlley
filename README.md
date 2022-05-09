@@ -83,13 +83,21 @@
 
 Meus melhores projetos
 
+* Pessoal
+1. ✅ Portfólio: [Darlley Brito](https://darlley.github.io/) (Bootstrap+Sass, Gulp e Github Pages)
+  
+* Testes para vagas
 1. ✅ Protótipo de dashboard para desafio de vaga: [DietSystem](https://darlley.github.io/Frontend/DietSystem/) (HTML + CSS)
 1. ✅ Protótipo de landing page para desafio de vaga: [Impulso Previne](https://darlley.github.io/Frontend/impulso-previne/) (HTML + CSS)
-1. ✅ Portfólio pessoal: [Darlley Brito](https://darlley.github.io/) (Bootstrap+Sass, Gulp e Github Pages)
 1. ✅ Protótipo de landing page para desafio de vaga: [Sorteio.com](https://sorteio-woad.vercel.app/) (Next.js, Sass+Bootstrap e Vercel)
 1. ✅ Protótipo de landing page para desafio de vaga: [PrivateCode](https://privatecode.vercel.app/) (Next.js, Sass + Bootstrap e Vercel)
-1. ✅ Projeto da NLW6 (curso/evento): [Letmeask](https://letmeask-c49ed.web.app/) (ReactJS+Vitejs, Sass e Firebase)
 
+* Cursos e eventos
+1. ✅ Projeto da NLW6 (curso/evento): [Letmeask](https://letmeask-c49ed.web.app/) (ReactJS+Vitejs, Sass e Firebase)
+  
+* Projetos reais
+1. ✅ Site institucional: [Base de Conhecimento](https://knowledge.leadszapp.com/) (Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 e Digital Ocean + Laravel Forge)
+1. ✅ Landing Page: [Chacara Carazinho](https://chacaracarazinho.com.br/) (WordPress + PHP)
 
 ## 📲 CONTATOS
 
