@@ -8,13 +8,6 @@
 - - Filmes > Senhor dos Anéis, Harry Potter;
 - - Leitura > Literatura Clássica e ciências sociais (Filosofia e História);
 
-<div>
-  <a href="https://github.com/Darlley">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Darlley&show_icons=true&theme=react&include_all_commits=true&count_private=true">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlley&layout=compact&langs_count=16&theme=react">
-  </a>
-<div>
-
 <div align="center">
   <div>
     <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
@@ -96,7 +89,8 @@ Meus melhores projetos
 1. ✅ Projeto da NLW6 (curso/evento): [Letmeask](https://letmeask-c49ed.web.app/) (ReactJS+Vitejs, Sass e Firebase)
   
 * Projetos reais
-1. ✅ Site institucional: [Base de Conhecimento](https://knowledge.leadszapp.com/) (Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 e Digital Ocean + Laravel Forge)
+1. ✅ Site institucional: [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) (Multi-tenancy com Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 e Digital Ocean + Laravel Forge)
+1. ✅ Site institucional: [Base de Conhecimento do Growp](https://knowledge.growp.app/) (Multi-tenancy com Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 e Digital Ocean + Laravel Forge)
 1. ✅ Landing Page: [Chacara Carazinho](https://chacaracarazinho.com.br/) (WordPress + PHP)
 
 ## 📲 CONTATOS
