@@ -1,76 +1,78 @@
-# Hello Devs
-
-- 💻 Sou Desenvolvedor Web Fullstack Júnior na TALL Stack: Tailwind, Alpinejs, Laravel e Livewire
-- 💻 Também tenho conhecimentos em desenvolvimento com Bootstrap, PHP/WordPress, ReactJS, Next.js e as ferramentas front-end (NPM, SCSS, Gulp, etc...).
-- 🐙 Curto os animes mais padrãosinhos, agora estou acompanhando Boruto e Demon Slayer.  
-- Meus gostos principais:
-- - Time > São paulo FC;
-- - Filmes > Senhor dos Anéis, Harry Potter;
-- - Leitura > Literatura Clássica e ciências sociais (Filosofia e História);
-
 <div align="center">
-  <div>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/html5-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/css3-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/javascript-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/typescript-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/python-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/java-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/php-original.svg?size=50" alt="LinkedIn">
-    </a>
-  </div>
-
-  <div>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/yarn-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/gulp-plain.svg?size=50&color=ff0000" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/webpack-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/wordpress-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/sass-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/git-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/bitbucket-original-wordmark.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/babel-original.svg?size=50" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/">
-      <img src="https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=7952b3" alt="LinkedIn">
-    </a>
-  </div>
+  <img height="150" src="https://avatars.githubusercontent.com/u/37590954?v=4"  />
 </div>
 
----
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/darlleybrito/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/darlley_brito" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/darlleybbf/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Darlley.Darlley&"  />
+</div>
+
+###
+
+<h4 align="center">Olá 👋</h4>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Sou Desenvolvedor Web Full Stack<br><br>- 🔭 Trabalho como Dev na LeadsZapp na TALL Stack (Tailwind, Alpine, Laravel e Livewire com MySQL), ReactJS e Next.js.<br>- 📚 Estou estudando (Além de JS e PHP): UI Design, AWS Certified Cloud Practitioner,  Cibersegurança, SEO e WordPress<br>- ⚡ Só Jogo Mobile Legends<br>- ⚡ assisto viagens de motos, séries sitcoms, anime Kimetsu no Yaiba e Reacts de músicas Geek<br>- ⚡  Leio livros de programação e filosofia por que literatura é só Harry Potter e Senhor dos Anéis</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+</div>
+
+###
 
 ## 🎉 PROJETOS 
 
