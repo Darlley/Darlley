@@ -92,7 +92,7 @@ Meus melhores projetos
   
 * Projetos reais
 1. Landing Page: [LeadsZapp](https://site-leadszapp.vercel.app/) (Next.js, TailwindCSS e Vercel)
-2. Landing Page: [Growp](https://main.dvcnk22v08gno.amplifyapp.com/) (Next.js, TailwindCSS e AWS Amplify)
+2. Landing Page: [Growp](https://site-growp.vercel.app/) (Next.js, TailwindCSS e Vercel)
 3. ✅ Site institucional: [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) (Multi-tenancy com Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 e Digital Ocean + Laravel Forge)
 4. ✅ Site institucional: [Base de Conhecimento do Growp](https://knowledge.growp.app/) (Multi-tenancy com Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 e Digital Ocean + Laravel Forge)
 5. ✅ Landing Page: [Chacara Carazinho](https://chacaracarazinho.com.br/) (WordPress + PHP)
