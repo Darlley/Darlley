@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Sou Desenvolvedor Web Full Stack<br><br>- 🔭 Trabalho na LeadsZapp com a TALL Stack (Tailwind, Alpine, Laravel e Livewire com MySQL), ReactJS e Next.js.<br>- 📚 Estou estudando (Além de JS e PHP): UI Design, AWS Certified Cloud Practitioner,  Cibersegurança, SEO e WordPress<br>- ⚡ Só Jogo Mobile Legends<br>- ⚡ O que eu gosto de assistir são viagens de motos, séries sitcoms, alguns poucos animes, reacts de músicas Geek e batalhas de rima<br>- ⚡ Leio livros de programação e filosofia, literatura são poucos como Harry Potter e Senhor dos Anéis</p>
+<p align="left">Sou Desenvolvedor Web Full Stack<br><br>- 🔭 Trabalho na LeadsZapp com a TALL Stack (Tailwind, Alpine, Laravel e Livewire com MySQL), ReactJS e Next.js.<br>- 📚 Estou estudando (Além de JS e PHP): UI Design, No-Code, AWS Certified Cloud Practitioner,  Cibersegurança, SEO e WordPress<br>- ⚡ Só Jogo Mobile Legends<br>- ⚡ O que eu gosto de assistir são viagens de motos, séries sitcoms, alguns poucos animes, reacts de músicas Geek e batalhas de rima<br>- ⚡ Leio livros de programação e filosofia, literatura são poucos como Harry Potter e Senhor dos Anéis</p>
 
 ###
 
