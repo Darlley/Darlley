@@ -19,8 +19,8 @@ ALém do computador alghuns dos meus hobbies favoroitos são:
 
 **BACK-END**
 
-1. ✅ [API de to/do para videos](https://github.com/Darlley/rseat-node-do-zero) - API Node/Fastify, PostgresSQL + Deploy com Render e Neon.tech
-2. ✅ [API de indicações NLW Connect](https://github.com/Darlley/nlw-connect-nodejs) - API Node/Fastify, Zod, TypeScript, Docker, PostgresSQL, DrizzleORM, Redis, Swagger + Deploy com Render e Upstash
+1. ✅ [API de to/do para videos](https://github.com/Darlley/rseat-node-do-zero) - Fastify, PostgresSQL, Swagger + Deploy com Render e Neon.tech
+2. ✅ [API de indicações NLW Connect](https://github.com/Darlley/nlw-connect-nodejs) - Fastify, Zod, TypeScript, Docker, PostgresSQL, Drizzle, Redis, Swagger + Deploy com Render e Upstash
 3. ✅ [Landing Page com WordPress CMS](https://chacaracarazinho.com.br/) - PHP + WordPress
 
 **FULL-STACK**
