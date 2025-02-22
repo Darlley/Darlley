@@ -38,28 +38,25 @@
 
 ## 🎉 PROJETOS 
 
-Meus melhores projetos
+**FRONT-END**
 
-* Pessoal
-1. ✅ Portfólio: [Darlley Brito](https://darlley.github.io/) (Bootstrap+Sass, Gulp e Github Pages)
-2. ✅ Portfólio: [Darlley Brito](https://darlley.dev/) (Nextjs, NextUI)
-  
-* Testes para vagas
-1. ✅ Protótipo de dashboard para desafio de vaga: [DietSystem](https://darlley.github.io/Frontend/DietSystem/) (HTML + CSS)
-1. ✅ Protótipo de landing page para desafio de vaga: [Impulso Previne](https://darlley.github.io/Frontend/impulso-previne/) (HTML + CSS)
-1. ✅ Protótipo de landing page para desafio de vaga: [Sorteio.com](https://sorteio-woad.vercel.app/) (Next.js, Sass+Bootstrap e Vercel)
-1. ✅ Protótipo de landing page para desafio de vaga: [PrivateCode](https://privatecode.vercel.app/) (Next.js, Sass + Bootstrap e Vercel)
+1. ✅ [Portfólio pessoal (versão atual)](https://darlley.dev/) - Nextjs, Tailwind + NextUI e Vercel.
+2. ✅ [Landing Page Sorteio.com](https://sorteio-woad.vercel.app/) - Nextjs, Bootstrap + SASS e Vercel.
+3. ✅ [Landing Page PrivateCode](https://privatecode.vercel.app/) - Nextjs, Bootstrap + SASS e Vercel
+4. ✅ [Portfólio pessoal (primeira versão)](https://darlley.github.io/) - Bootstrap + SASS, Gulp e Github Pages.
 
-* Cursos e eventos
-1. ✅ Projeto da NLW6 (curso/evento): [Letmeask](https://letmeask-c49ed.web.app/) (ReactJS+Vitejs, Sass e Firebase)
-2. ✅ [Knowledge Builder](https://github.com/Darlley/knowledge-builder) (Nextjs, Supabase, Strapi, ...)
-  
-* Projetos reais
-1. Landing Page: [LeadsZapp](https://site-leadszapp.vercel.app/) (Next.js, TailwindCSS e Vercel)
-2. Landing Page: [Growp](https://site-growp.vercel.app/) (Next.js, TailwindCSS e Vercel)
-3. ✅ Site institucional: [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) (Multi-tenancy com Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 e Digital Ocean + Laravel Forge)
-4. ✅ Site institucional: [Base de Conhecimento do Growp](https://knowledge.growp.app/) (Multi-tenancy com Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 e Digital Ocean + Laravel Forge)
-5. ✅ Landing Page: [Chacara Carazinho](https://chacaracarazinho.com.br/) (WordPress + PHP)
+**BACK-END**
+
+1. [API de to/do para videos](https://github.com/Darlley/rseat-node-do-zero) - API Node/Fastify, PostgresSQL + Deploy com Render e Neon.tech
+2. [API de indicações NLW Connect](https://github.com/Darlley/nlw-connect-nodejs) - API Node/Fastify, Zod, TypeScript, Docker, PostgresSQL, DrizzleORM, Redis, Swagger + Deploy com Render e Upstash
+3. [Landing Page com WordPress CMS](https://chacaracarazinho.com.br/) - PHP + WordPress
+
+**FULL-STACK**
+
+1. ✅ [Template para SAAS](https://saas-admin-website.vercel.app/) - Nextjs, Zod, TypeScript, shadcn, Authjs, Resend, Prisma, Supabase, Stripe.
+2. ✅ [Letmeask (Projeto da NLW6)](https://letmeask-c49ed.web.app/) - Vitejs, SASS e Firebase.
+3. ✅ [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
+4. ✅ [Base de Conhecimento do Growp](https://knowledge.growp.app/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
 
 ## 📲 CONTATOS
 
