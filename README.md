@@ -1,40 +1,12 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/37590954?v=4"  />
-</div>
+## 👩‍💻 About Me
 
-###
+Sou desenvolvedor web full stack com experiência na área atuando em 2 empresas de marketing digital. Em 2020 fui estagiário backend PHP na Bonafide (Marketing Júridico) criando sites institucionais com WordPress CMS (PHP), e entre 2022 e 2024 fui contratado como Desenvolvedor Web Fullstack na LeadsZapp onde implementava micro-tasks no frontend com HTML+TailwindCSS, sites com Nextjs e ferramentas de gerenciamento interno com Laravel ou no-code).
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/darlleybrito/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/darlley_brito" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/darlleybbf/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
-  </a>
-</div>
+ALém do computador alghuns dos meus hobbies favoroitos são:
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Darlley.Darlley&"  />
-</div>
-
-###
-
-<h4 align="center">Olá 👋</h4>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Sou Desenvolvedor Web Full Stack<br><br>- 🔭 Trabalho na LeadsZapp com a TALL Stack (Tailwind, Alpine, Laravel e Livewire com MySQL), ReactJS e Next.js.<br>- 📚 Estou estudando (Além de JS e PHP): UI Design, No-Code, AWS Certified Cloud Practitioner,  Cibersegurança, SEO e WordPress<br>- ⚡ Só Jogo Mobile Legends<br>- ⚡ O que eu gosto de assistir são viagens de motos, séries sitcoms, alguns poucos animes, reacts de músicas Geek e batalhas de rima<br>- ⚡ Leio livros de programação e filosofia, literatura são poucos como Harry Potter e Senhor dos Anéis</p>
-
-###
+- ⚡ Jogar Mobile Legends
+- ⚡ Assistir viagens de motos, alguns poucos animes e filmes e series de aventura e fantasia
+- ⚡ Leio livros de programação, filosofia, historia e politica, literatura são poucos como Harry Potter, Senhor dos Anéis e Dostoiévski
 
 ## 🎉 PROJETOS 
 
@@ -60,13 +32,14 @@
 
 ## 📲 CONTATOS
 
-<div align="center" stye="margin: 1000px">
-  <p>
-    <a href="https://www.linkedin.com/in/darlley-brito-165884161/"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f0f0c230de17855182ef3bdcdbb243b6c2e7c11d/imgs/linkedin.svg" alt="LinkedIn"></a>
-    <a href="https://darlley.github.io/conhecimentos.html"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f0f0c230de17855182ef3bdcdbb243b6c2e7c11d/imgs/cv.svg" alt="Curriculum Vitae"></a>
-    <a href="https://twitter.com/darlley_brito"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/f0f0c230de17855182ef3bdcdbb243b6c2e7c11d/imgs/twitter.svg" alt="Twitter"></a>
-  </p>
-  <p>
-    darlleybrito@gmail.com
-  </p>
-</div>
+<a href="https://www.linkedin.com/in/darlleybrito/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/darlley_brito" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/darlleybbf/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo"  />
+  </a>
+
+Meu email é darlleybrito@gmail.com
