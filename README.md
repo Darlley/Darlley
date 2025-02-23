@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-Sou desenvolvedor web full stack com experiência na área atuando em 2 empresas de marketing digital. Em 2020 fui estagiário backend PHP na Bonafide (Marketing Júridico) criando sites institucionais com WordPress CMS (PHP), e entre 2022 e 2024 fui contratado como Desenvolvedor Web Fullstack na LeadsZapp onde implementava micro-tasks no frontend com HTML+TailwindCSS, sites com Nextjs e ferramentas de gerenciamento interno com Laravel ou no-code).
+Sou desenvolvedor web full stack **júnior** com experiência na área atuando em 2 empresas de marketing digital. Em 2020 fui estagiário backend PHP na Bonafide (Marketing Júridico) criando sites institucionais com WordPress CMS (PHP), e entre 2022 e 2024 fui contratado como Desenvolvedor Web Fullstack na LeadsZapp onde implementava micro-tasks no frontend com HTML+TailwindCSS, sites com Nextjs e ferramentas de gerenciamento interno com Laravel ou no-code).
 
 ALém do computador alghuns dos meus hobbies favoroitos são:
 
