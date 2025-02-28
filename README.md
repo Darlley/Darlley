@@ -27,10 +27,11 @@ ALém do computador alghuns dos meus hobbies favoroitos são:
 
 **FULL-STACK**
 
-1. ✅ [Template para SAAS](https://saas-admin-website.vercel.app/) - Nextjs, Zod, TypeScript, shadcn, Authjs, Resend, Prisma, Supabase, Stripe.
-2. ✅ [Letmeask (Projeto da NLW6)](https://letmeask-c49ed.web.app/) - Vitejs, SASS e Firebase.
-3. ✅ [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
-4. ✅ [Base de Conhecimento do Growp](https://knowledge.growp.app/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
+1. ✅ [CRU de Planos com Stripe](https://github.com/Darlley/stripe-plans-crud) - Nextjs, TypeScript, shadcn, Prisma, SQLite, Stripe.
+2. ✅ [Template para SAAS](https://saas-admin-website.vercel.app/) - Nextjs, Zod, TypeScript, shadcn, Authjs, Resend, Prisma, Supabase, Stripe.
+3. ✅ [Letmeask (Projeto da NLW6)](https://letmeask-c49ed.web.app/) - Vitejs, SASS e Firebase.
+4. ✅ [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
+5. ✅ [Base de Conhecimento do Growp](https://knowledge.growp.app/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
 
 ## 📲 CONTATOS
 
