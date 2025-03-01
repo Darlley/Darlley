@@ -21,17 +21,18 @@ ALém do computador alghuns dos meus hobbies favoroitos são:
 
 **BACK-END**
 
+1. ✅ [API WhatsApp com Google Sheets](https://github.com/Darlley/hono-whatsapp-api) - Hono, TypeScript + Zod, whatsapp-web.js, Swagger.
 1. ✅ [API de to/do para videos](https://github.com/Darlley/rseat-node-do-zero) - Fastify, PostgresSQL, Swagger + Deploy com Render e Neon.tech
-2. ✅ [API de indicações NLW Connect](https://github.com/Darlley/nlw-connect-nodejs) - Fastify, Zod, TypeScript, Docker, PostgresSQL, Drizzle, Redis, Swagger + Deploy com Render e Upstash
-3. ✅ [Landing Page com WordPress CMS](https://chacaracarazinho.com.br/) - PHP + WordPress
+1. ✅ [API de indicações NLW Connect](https://github.com/Darlley/nlw-connect-nodejs) - Fastify, Zod, TypeScript, Docker, PostgresSQL, Drizzle, Redis, Swagger + Deploy com Render e Upstash
+1. ✅ [Landing Page com WordPress CMS](https://chacaracarazinho.com.br/) - PHP + WordPress
 
 **FULL-STACK**
 
 1. ✅ [CRUD de Planos com Stripe](https://github.com/Darlley/stripe-plans-crud) - Nextjs, TypeScript, shadcn, Prisma, SQLite, Stripe.
-2. ✅ [Template para SAAS](https://saas-admin-website.vercel.app/) - Nextjs, Zod, TypeScript, shadcn, Authjs, Resend, Prisma, Supabase, Stripe.
-3. ✅ [Letmeask (Projeto da NLW6)](https://letmeask-c49ed.web.app/) - Vitejs, SASS e Firebase.
-4. ✅ [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
-5. ✅ [Base de Conhecimento do Growp](https://knowledge.growp.app/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
+1. ✅ [Template para SAAS](https://saas-admin-website.vercel.app/) - Nextjs, Zod, TypeScript, shadcn, Authjs, Resend, Prisma, Supabase, Stripe.
+1. ✅ [Letmeask (Projeto da NLW6)](https://letmeask-c49ed.web.app/) - Vitejs, SASS e Firebase.
+1. ✅ [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
+1. ✅ [Base de Conhecimento do Growp](https://knowledge.growp.app/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
 
 ## 📲 CONTATOS
 
