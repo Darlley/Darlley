@@ -15,9 +15,10 @@ ALém do computador alghuns dos meus hobbies favoroitos são:
 **FRONT-END**
 
 1. ✅ [Portfólio pessoal (versão atual)](https://darlley.dev/) - Nextjs, Tailwind + NextUI e Vercel.
-2. ✅ [Landing Page Sorteio.com](https://sorteio-woad.vercel.app/) - Nextjs, Bootstrap + SASS e Vercel.
-3. ✅ [Landing Page PrivateCode](https://privatecode.vercel.app/) - Nextjs, Bootstrap + SASS e Vercel
-4. ✅ [Portfólio pessoal (primeira versão)](https://darlley.github.io/) - Bootstrap + SASS, Gulp e Github Pages.
+1. ✅ [Editor de artigos](https://github.com/Darlley/editor) - Nextjs, Tailwind + NextUI e LocalStorage.
+1. ✅ [Landing Page Sorteio.com](https://sorteio-woad.vercel.app/) - Nextjs, Bootstrap + SASS e Vercel.
+1. ✅ [Landing Page PrivateCode](https://privatecode.vercel.app/) - Nextjs, Bootstrap + SASS e Vercel
+1. ✅ [Portfólio pessoal (primeira versão)](https://darlley.github.io/) - Bootstrap + SASS, Gulp e Github Pages.
 
 **BACK-END**
 
