@@ -5,12 +5,14 @@ Sou **Desenvolvedor Web Full Stack Júnior** com experiência na área atuando e
 Habilidades:
 
 **FRONT-END**
+
 ✅ HTML5 - ✅ CSS3 - ✅ SASS - ✅ TailwindCSS - ✅ Bootstrap - ✅ Figma
 ✅ JavaScript - ✅ TypeScript - ✅ Vite.js - ✅ React.js - ✅ Next.js
 ✅ Zustand - ✅ SWR - ✅ React-Hook-Form - ✅ Strapi CMS
 ✅ Motion Design - ✅ Framer Motion - ✅ Shadcn - ✅ HeroUI
 
 **BACK-END**
+
 ✅ PHP - ✅ WordPress CMS - ✅ Laravel - ✅ Livewire - ✅ Alpine.js
 ✅ Node.js - ✅ Express - ✅ NestJS - ✅ Fastify - ✅ Redis
 
@@ -19,6 +21,7 @@ Habilidades:
 ✅ Upstash - ✅ Prisma ORM - ✅ Drizzle ORM
 
 **OUTROS**
+
 ✅ AWS S3 - ✅ AWS Amplify - ✅ WSL - ✅ Docker
 ✅ Stripe (Payments) - ✅ Langchain (AI)
 ✅ NPM - ✅ GIT - ✅ GITHUB
