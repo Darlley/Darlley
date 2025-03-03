@@ -6,10 +6,10 @@ Habilidades:
 
 **FRONT-END**
 
-✅ HTML5 - ✅ CSS3 - ✅ SASS - ✅ TailwindCSS - ✅ Bootstrap - ✅ Figma
-✅ JavaScript - ✅ TypeScript - ✅ Vite.js - ✅ React.js - ✅ Next.js
-✅ Zustand - ✅ SWR - ✅ React-Hook-Form - ✅ Strapi CMS
-✅ Motion Design - ✅ Framer Motion - ✅ Shadcn - ✅ HeroUI
+- ✅ HTML5 - ✅ CSS3 - ✅ SASS - ✅ TailwindCSS - ✅ Bootstrap - ✅ Figma
+- ✅ JavaScript - ✅ TypeScript - ✅ Vite.js - ✅ React.js - ✅ Next.js
+- ✅ Zustand - ✅ SWR - ✅ React-Hook-Form - ✅ Strapi CMS
+- ✅ Motion Design - ✅ Framer Motion - ✅ Shadcn - ✅ HeroUI
 
 **BACK-END**
 
@@ -17,6 +17,7 @@ Habilidades:
 ✅ Node.js - ✅ Express - ✅ NestJS - ✅ Fastify - ✅ Redis
 
 **BANCO DE DADOS**
+
 ✅ MySQL - ✅ PostgreSQL - ✅ MongoDB - ✅ Supabase - ✅ Appwrite
 ✅ Upstash - ✅ Prisma ORM - ✅ Drizzle ORM
 
