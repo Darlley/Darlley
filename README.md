@@ -13,19 +13,19 @@ Habilidades:
 
 **BACK-END**
 
-✅ PHP - ✅ WordPress CMS - ✅ Laravel - ✅ Livewire - ✅ Alpine.js
-✅ Node.js - ✅ Express - ✅ NestJS - ✅ Fastify - ✅ Redis
+- ✅ PHP - ✅ WordPress CMS - ✅ Laravel - ✅ Livewire - ✅ Alpine.js
+- ✅ Node.js - ✅ Express - ✅ NestJS - ✅ Fastify - ✅ Redis
 
 **BANCO DE DADOS**
 
-✅ MySQL - ✅ PostgreSQL - ✅ MongoDB - ✅ Supabase - ✅ Appwrite
-✅ Upstash - ✅ Prisma ORM - ✅ Drizzle ORM
+- ✅ MySQL - ✅ PostgreSQL - ✅ MongoDB - ✅ Supabase - ✅ Appwrite
+- ✅ Upstash - ✅ Prisma ORM - ✅ Drizzle ORM
 
 **OUTROS**
 
-✅ AWS S3 - ✅ AWS Amplify - ✅ WSL - ✅ Docker
-✅ Stripe (Payments) - ✅ Langchain (AI)
-✅ NPM - ✅ GIT - ✅ GITHUB
+- ✅ AWS S3 - ✅ AWS Amplify - ✅ WSL - ✅ Docker
+- ✅ Stripe (Payments) - ✅ Langchain (AI)
+- ✅ NPM - ✅ GIT - ✅ GITHUB
 
 Veja meu cúrriculo: [https://www.darlley.dev/curriculo.pdf](https://www.darlley.dev/curriculo.pdf)
 
