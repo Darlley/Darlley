@@ -39,6 +39,7 @@ ALém do computador alguns dos meus hobbies favoroitos são:
 
 **FRONT-END**
 
+1. ✅ [Blog pessoal](https://www.darlley.dev/blog) - API Notion, SWR, Nextjs + NextUI e Vercel.
 1. ✅ [Portfólio pessoal (versão atual)](https://darlley.dev/) - Nextjs, Tailwind + NextUI e Vercel.
 1. ✅ [Editor de artigos](https://github.com/Darlley/editor) - Nextjs, Tailwind + NextUI e LocalStorage.
 1. ✅ [Extensão Chrome](https://github.com/Darlley/vite-chrome-ext) - Vitejs, Tailwindcss.
