@@ -39,28 +39,28 @@ ALém do computador alguns dos meus hobbies favoroitos são:
 
 **FRONT-END**
 
-1. ✅ [Blog pessoal](https://www.darlley.dev/blog) - API Notion, SWR, Nextjs + NextUI e Vercel.
-1. ✅ [Portfólio pessoal (versão atual)](https://darlley.dev/) - Nextjs, Tailwind + NextUI e Vercel.
-1. ✅ [Editor de artigos](https://github.com/Darlley/editor) - Nextjs, Tailwind + NextUI e LocalStorage.
-1. ✅ [Extensão Chrome](https://github.com/Darlley/vite-chrome-ext) - Vitejs, Tailwindcss.
-1. ✅ [Landing Page Sorteio.com](https://sorteio-woad.vercel.app/) - Nextjs, Bootstrap + SASS e Vercel.
-1. ✅ [Landing Page PrivateCode](https://privatecode.vercel.app/) - Nextjs, Bootstrap + SASS e Vercel.
-1. ✅ [Portfólio pessoal (primeira versão)](https://darlley.github.io/) - Bootstrap + SASS, Gulp e Github Pages.
+1. ✅ [Blog pessoal](https://www.darlley.dev/blog) - **Nextjs** + API Notion, SWR + NextUI e Vercel.
+1. ✅ [Portfólio pessoal (versão atual)](https://darlley.dev/) - **Nextjs**, Tailwind + NextUI e Vercel.
+1. ✅ [Editor de artigos](https://github.com/Darlley/editor) - **Nextjs**, Tailwind + NextUI e LocalStorage.
+1. ✅ [Extensão Chrome](https://github.com/Darlley/vite-chrome-ext) - **Vitejs**, Tailwindcss.
+1. ✅ [Landing Page Sorteio.com](https://sorteio-woad.vercel.app/) - **Nextjs**, Bootstrap + SASS e Vercel.
+1. ✅ [Landing Page PrivateCode](https://privatecode.vercel.app/) - **Nextjs**, Bootstrap + SASS e Vercel.
+1. ✅ [Portfólio pessoal (primeira versão)](https://darlley.github.io/) - **Bootstrap** + SASS, Gulp e Github Pages.
 
 **BACK-END**
 
-1. ✅ [API WhatsApp com Google Sheets](https://github.com/Darlley/hono-whatsapp-api) - Hono, TypeScript + Zod, whatsapp-web.js, Swagger.
-1. ✅ [API de to/do para videos](https://github.com/Darlley/rseat-node-do-zero) - Fastify, PostgresSQL, Swagger + Deploy com Render e Neon.tech
-1. ✅ [API de indicações NLW Connect](https://github.com/Darlley/nlw-connect-nodejs) - Fastify, Zod, TypeScript, Docker, PostgresSQL, Drizzle, Redis, Swagger + Deploy com Render e Upstash
-1. ✅ [Landing Page com WordPress CMS](https://chacaracarazinho.com.br/) - PHP + WordPress
+1. ✅ [API WhatsApp com Google Sheets](https://github.com/Darlley/hono-whatsapp-api) - **Hono**, TypeScript + Zod, whatsapp-web.js, Swagger.
+1. ✅ [API de to/do para videos](https://github.com/Darlley/rseat-node-do-zero) - **Fastify**, PostgresSQL, Swagger + Deploy com Render e Neon.tech
+1. ✅ [API de indicações NLW Connect](https://github.com/Darlley/nlw-connect-nodejs) - **Fastify**, Zod, TypeScript, Docker, PostgresSQL, Drizzle, Redis, Swagger + Deploy com Render e Upstash
+1. ✅ [Landing Page com WordPress CMS](https://chacaracarazinho.com.br/) - **WordPress** + PHP
 
 **FULL-STACK**
 
-1. ✅ [CRUD de Planos com Stripe](https://github.com/Darlley/stripe-plans-crud) - Nextjs, TypeScript, shadcn, Prisma, SQLite, Stripe.
-1. ✅ [Template para SAAS](https://saas-admin-website.vercel.app/) - Nextjs, Zod, TypeScript, shadcn, Authjs, Resend, Prisma, Supabase, Stripe.
-1. ✅ [Letmeask (Projeto da NLW6)](https://letmeask-c49ed.web.app/) - Vitejs, SASS e Firebase.
-1. ✅ [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
-1. ✅ [Base de Conhecimento do Growp](https://knowledge.growp.app/) - Laravel, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
+1. ✅ [CRUD de Planos com Stripe](https://github.com/Darlley/stripe-plans-crud) - **Nextjs**, TypeScript, shadcn, Prisma, SQLite, Stripe.
+1. ✅ [Template para SAAS](https://saas-admin-website.vercel.app/) - **Nextjs**, Zod, TypeScript, shadcn, Authjs, Resend, Prisma, Supabase, Stripe.
+1. ✅ [Letmeask (Projeto da NLW6)](https://letmeask-c49ed.web.app/) - **Vitejs**, SASS e Firebase.
+1. ✅ [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) - **Laravel**, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
+1. ✅ [Base de Conhecimento do Growp](https://knowledge.growp.app/) - **Laravel**, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
 
 ## 📲 CONTATOS
 
