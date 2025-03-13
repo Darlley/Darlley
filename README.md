@@ -1,14 +1,30 @@
-# 👩‍💻 Sobre mim
+<table style="width: 100%;">
+    <tr>
+        <td style="width: 70%;">
+            <h1>👩‍💻 Sobre mim</h1>
+            <p>Sou <strong>Desenvolvedor Web Full Stack Júnior</strong> com experiência na área atuando em 2 empresas de marketing digital. Em 2020 fui estagiário backend PHP na Bonafide (Marketing Jurídico) criando sites institucionais com WordPress CMS (PHP), e entre 2022 e 2024 fui contratado como Desenvolvedor Web Fullstack na LeadsZapp onde implementava micro-tasks no frontend com HTML+TailwindCSS, sites com Nextjs e ferramentas de gerenciamento interno com Laravel ou no-code.</p>
+            <p>Veja meu currículo: <a href="https://www.darlley.dev/curriculo.pdf">https://www.darlley.dev/curriculo.pdf</a></p>
+            <p>Além do computador, alguns dos meus hobbies favoritos são:</p>
+            <ul>
+                <li>⚡ Jogar Mobile Legends</li>
+                <li>⚡ Assistir viagens de motos, alguns poucos animes e filmes e séries de aventura e fantasia</li>
+                <li>⚡ Leio livros de programação, filosofia, história e política, literatura são poucos como Harry Potter, Senhor dos Anéis e Dostoiévski</li>
+            </ul>
+        </td>
+        <td style="width: 30%; background-size: cover;">
+            <img src="https://github.com/user-attachments/assets/89412798-32b3-4864-abb9-31e11a6ccb83" style="width: 100%;" />
+        </td>
+    </tr>
+</table>
 
-Sou **Desenvolvedor Web Full Stack Júnior** com experiência na área atuando em 2 empresas de marketing digital. Em 2020 fui estagiário backend PHP na Bonafide (Marketing Júridico) criando sites institucionais com WordPress CMS (PHP), e entre 2022 e 2024 fui contratado como Desenvolvedor Web Fullstack na LeadsZapp onde implementava micro-tasks no frontend com HTML+TailwindCSS, sites com Nextjs e ferramentas de gerenciamento interno com Laravel ou no-code).
 
-Veja meu cúrriculo: [https://www.darlley.dev/curriculo.pdf](https://www.darlley.dev/curriculo.pdf)
 
-ALém do computador alguns dos meus hobbies favoroitos são:
 
-- ⚡ Jogar Mobile Legends
-- ⚡ Assistir viagens de motos, alguns poucos animes e filmes e series de aventura e fantasia
-- ⚡ Leio livros de programação, filosofia, historia e politica, literatura são poucos como Harry Potter, Senhor dos Anéis e Dostoiévski
+
+
+
+
+
 
 ## Habilidades:
 
