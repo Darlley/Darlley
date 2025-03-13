@@ -12,7 +12,9 @@
         </td>
         <td style="width: 30%; background-size: cover;">
             <img src="https://github.com/user-attachments/assets/89412798-32b3-4864-abb9-31e11a6ccb83" style="width: 100%;" />
-            <p>Veja meu currículo: <a href="https://www.darlley.dev/curriculo.pdf">https://www.darlley.dev/curriculo.pdf</a></p>
+            <p>Veja meu currículo: </p>
+            <br />
+            <p><a href="https://www.darlley.dev/curriculo.pdf">https://www.darlley.dev/curriculo.pdf</a></p>
         </td>
     </tr>
 </table>
