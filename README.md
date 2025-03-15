@@ -1,7 +1,6 @@
 <table style="width: 100%;">
     <tr>
-        <td style="width: 70%;">
-            <h1>👩‍💻 Sobre mim</h1>
+        <td style="width: 60%;">
             <p>Sou <strong>Desenvolvedor Web Full Stack Júnior</strong> com experiência na área atuando em 2 empresas de marketing digital. Em 2020 fui estagiário backend PHP na Bonafide (Marketing Jurídico) criando sites institucionais com WordPress CMS (PHP), e entre 2022 e 2024 fui contratado como Desenvolvedor Web Fullstack na LeadsZapp onde implementava micro-tasks no frontend com HTML+TailwindCSS, sites com Nextjs e ferramentas de gerenciamento interno com Laravel ou no-code.</p>
             <p>Além do computador, alguns dos meus hobbies favoritos são:</p>
             <ul>
@@ -11,7 +10,7 @@
             </ul>
             <p>Veja meu currículo: <a href="https://www.darlley.dev/curriculo.pdf">https://www.darlley.dev/curriculo.pdf</a></p>
         </td>
-        <td style="width: 30%; background-size: cover;">
+        <td style="width: 40%; background-size: cover;">
             <img src="https://github.com/user-attachments/assets/89412798-32b3-4864-abb9-31e11a6ccb83" style="width: 100%;" />
         </td>
     </tr>
