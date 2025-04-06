@@ -18,7 +18,7 @@
 
 **BACK-END**
 
-- ✅ PHP - ✅ WordPress CMS - ✅ Laravel - ✅ Livewire - ✅ Alpine.js
+- ✅ PHP - ✅ WordPress CMS - ✅ Laravel - ✅ Herd - ✅ Pint - ✅ Livewire - ✅ Alpine.js
 - ✅ Node.js - ✅ Express - ✅ NestJS - ✅ Fastify - ✅ Redis
 
 **BANCO DE DADOS**
