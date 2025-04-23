@@ -1,4 +1,6 @@
-<p>Sou <strong>Desenvolvedor Web Full Stack Júnior</strong> com experiência na área atuando em 2 empresas de marketing digital. Em 2020 fui estagiário backend PHP na Bonafide (Marketing Jurídico) criando sites institucionais com WordPress CMS (PHP), e entre 2022 e 2024 fui contratado como Desenvolvedor Web Fullstack na LeadsZapp onde implementava micro-tasks no frontend com HTML+TailwindCSS, sites com Nextjs e ferramentas de gerenciamento interno com Laravel ou no-code.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3002&pause=500&color=1E54FF&width=435&lines=Hello!+I'm+Web+Developer+Full+Stack;UI+Designer;And+studying+AWS+Cloud+Practitioner)](https://git.io/typing-svg)
+
+<p>Tenho experiência na área atuando em 2 empresas de marketing digital. Em 2020 fui estagiário backend PHP na Bonafide (Marketing Jurídico) criando sites institucionais com WordPress CMS (PHP), e entre 2022 e 2024 fui contratado como Desenvolvedor Web Fullstack na LeadsZapp onde implementava micro-tasks no frontend com HTML+TailwindCSS, sites com Nextjs e ferramentas de gerenciamento interno com Laravel ou no-code.</p>
 <p>Além do computador, alguns dos meus hobbies favoritos são:</p>
 <ul>
     <li>⚡ Jogar Mobile Legends</li>
