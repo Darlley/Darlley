@@ -1,12 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3002&pause=500&color=1E54FF&width=435&lines=Hello!+I'm+Web+Developer+Full+Stack;UI+Designer;And+studying+AWS+Cloud+Practitioner)](https://git.io/typing-svg)
 
 <p>Tenho experiência na área atuando em 2 empresas de marketing digital. Em 2020 fui estagiário backend PHP na Bonafide (Marketing Jurídico) criando sites institucionais com WordPress CMS (PHP), e entre 2022 e 2024 fui contratado como Desenvolvedor Web Fullstack na LeadsZapp onde implementava micro-tasks no frontend com HTML+TailwindCSS, sites com Nextjs e ferramentas de gerenciamento interno com Laravel ou no-code.</p>
-<p>Além do computador, alguns dos meus hobbies favoritos são:</p>
-<ul>
-    <li>⚡ Jogar Mobile Legends</li>
-    <li>⚡ Assistir viagens de motos, alguns poucos animes e filmes e séries de aventura e fantasia</li>
-    <li>⚡ Leio livros de programação, filosofia, história e política, literatura são poucos como Harry Potter, Senhor dos Anéis e Dostoiévski</li>
-</ul>
+
 <p>Veja meu currículo: <a href="https://www.darlley.dev/curriculo.pdf">https://www.darlley.dev/curriculo.pdf</a></p>
 
 ## Habilidades:
@@ -60,6 +55,15 @@
 1. ✅ [Letmeask (Projeto da NLW6)](https://letmeask-c49ed.web.app/) - **Vitejs**, SASS e Firebase.
 1. ✅ [Base de Conhecimento do LeadsZapp](https://knowledge.leadszapp.com/) - **Laravel**, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
 1. ✅ [Base de Conhecimento do Growp](https://knowledge.growp.app/) - **Laravel**, Livewire, TailwindCSS, MySQL, Amazon S3 + Laravel Forge.
+
+# HOOBIES
+
+<p>Além do computador, alguns dos meus hobbies favoritos são:</p>
+<ul>
+    <li>⚡ Jogar Mobile Legends</li>
+    <li>⚡ Assistir viagens de motos, alguns poucos animes e filmes e séries de aventura e fantasia</li>
+    <li>⚡ Leio livros de programação, filosofia, história e política, literatura são poucos como Harry Potter, Senhor dos Anéis e Dostoiévski</li>
+</ul>
 
 ## 📲 CONTATOS
 
